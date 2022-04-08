@@ -1,0 +1,8 @@
+{
+"first name":"Violetta",
+"last name":"Kuranova",
+"age":30,
+"pet":"parrot Gosha",
+"favorite film":"Titanic"
+}
+
